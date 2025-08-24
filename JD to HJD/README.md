@@ -1,1 +1,1 @@
-Ένα απλό script που μετατρέπει Julian Date σε Heliocentric Julian Date. Το μόνο που έχετε να κάνετε είναι να βάλετε τις συντεταγμένες του αντικειμένου σας στις μεταβλητές ra, dec σε μορφή
+Ένα απλό script που μετατρέπει Julian Date σε Heliocentric Julian Date.
